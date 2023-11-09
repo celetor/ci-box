@@ -1,6 +1,7 @@
-# aliyundrive-checkin
 - https://github.com/libuke/aliyundrive-checkin
 - https://github.com/KD-happy/KDCheckin
+- https://github.com/srcrs/MagicBox
+- https://github.com/Huansheng1/my-qinglong-js
 
 
 # 如何使用？ 
